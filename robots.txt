@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pebtir.github.io/sqo/sitemap.sqo.gz
